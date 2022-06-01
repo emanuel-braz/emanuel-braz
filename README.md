@@ -1,16 +1,15 @@
-  <h1>Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> I'm Emanuel Braz</h1>
-  <p>I am a Flutter enthusiast and passionate about technological innovations </p>
+<h2>I'm Emanuel Braz, Flutter enthusiast and passionate about technological innovations </h2>
   
-  [![StackOverflow](https://stackoverflow-badge.vercel.app/?userID=8109088)](https://stackoverflow.com/users/8109088/hamiltonpharmd)
+  
   <img src="myoctocat.png" alt="Meu OctoCat" align="right" height="450" align="right"/>
 
-<br/>
 
 ### Social Medias:
 
 [![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/emanuel-braz/)
 [![LinkedIn](icons/stackoverflow.png)](https://stackoverflow.com/users/8109088/emanuel-braz)
-[![LinkedIn](icons/medium.png)](https://medium.com/@fastencoding)
+[![LinkedIn](icons/medium.png)](https://medium.com/@fastencoding)  
+[![StackOverflow](https://stackoverflow-badge.vercel.app/?userID=8109088)](https://stackoverflow.com/users/8109088/hamiltonpharmd)
 
 ### Mobile Development  
 <a href="https://flutter.dev/" title="Flutter"><img src="icons/flutter.png" /></a>
