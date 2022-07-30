@@ -1,7 +1,7 @@
 <h2>I'm Emanuel Braz, Flutter enthusiast and passionate about technological innovations </h2>
   
   
-  <img src="myoctocat.png" alt="Meu OctoCat" align="right" height="450" align="right"/>
+  <img src="myoctocat.png" alt="Meu OctoCat" align="right" height="350" align="right"/>
 
 
 ### Social Medias:
@@ -30,7 +30,3 @@
 |GITHUB STATS|LANGUAGES|
 |:---:|:---:|
 |[![Emanuel Braz stats](https://github-readme-stats.vercel.app/api?username=emanuel-braz&theme=midnight-purple&show_icons=true&count_private=true)](https://github.com/emanuel-braz/github-readme-stats)|![1](https://github-readme-stats.vercel.app/api/top-langs/?username=emanuel-braz&theme=midnight-purple&layout=compact&langs_count=8)
-
-|GITHUB TROPHIES|
-|:---:|
-|[![trophy](https://github-profile-trophy.vercel.app/?username=emanuel-braz&theme=darkhub&row=1&column=7)](https://github.com/emanuel-braz/github-profile-trophy)|
