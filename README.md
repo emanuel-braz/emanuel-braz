@@ -1,7 +1,7 @@
 <h2>I'm Emanuel Braz, Flutter enthusiast and passionate about technological innovations </h2>
   
   
-  <img src="myoctocat.png" alt="Meu OctoCat" align="right" height="350" align="right"/>
+  <img src="myoctocat.png" alt="Meu OctoCat" align="right" height="360" align="right"/>
 
 
 ### Social Medias:
