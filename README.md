@@ -1,11 +1,8 @@
-<h2>I'm Emanuel Braz, Flutter enthusiast and passionate about technological innovations </h2>
+<h2>I'm Emanuel Braz, Flutter enthusiast and passionate about technological innovations </h2>  
   
-  
-  <img src="myoctocat.png" alt="Meu OctoCat" align="right" height="360" align="right"/>
+<img src="myoctocat.png" alt="Meu OctoCat" align="right" height="360" align="right"/>
 
-
-### Social Medias:
-
+### Social Medias
 [![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/emanuel-braz/)
 [![LinkedIn](icons/stackoverflow.png)](https://stackoverflow.com/users/8109088/emanuel-braz)
 [![LinkedIn](icons/medium.png)](https://medium.com/@fastencoding)  
@@ -23,6 +20,8 @@
 <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="icons/javascript.png" /></a>
 <a href="" title="JavaScript"><img src="icons/html5.png" /></a>
 <a href="" title="JavaScript"><img src="icons/scss.png" /></a>
+### Sponsor
+<a href="https://www.buymeacoffee.com/emanuelbraz" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 217px !important;" ></a>
 
 <br/>
 <br/>
