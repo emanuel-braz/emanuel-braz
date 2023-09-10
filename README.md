@@ -20,8 +20,6 @@
 <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="icons/javascript.png" /></a>
 <a href="" title="JavaScript"><img src="icons/html5.png" /></a>
 <a href="" title="JavaScript"><img src="icons/scss.png" /></a>
-### Sponsor
-<a href="https://www.buymeacoffee.com/emanuelbraz" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 217px !important;" ></a>
 
 <br/>
 <br/>
